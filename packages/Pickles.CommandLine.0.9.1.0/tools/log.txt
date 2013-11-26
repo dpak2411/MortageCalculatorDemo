@@ -1,0 +1,39 @@
+2013-11-26 21:50:29,095 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Pickles v.0.9.0.0
+
+2013-11-26 21:50:29,138 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Generating documentation based on the following parameters
+2013-11-26 21:50:29,138 [1] INFO  PicklesDoc.Pickles.CommandLine.Program ----------------------------------------------------------
+2013-11-26 21:50:29,138 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Feature Directory         : C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:50:29,138 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Output Directory          : C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:50:29,138 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Project Name              : 
+2013-11-26 21:50:29,139 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Project Version           : 
+2013-11-26 21:50:29,139 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Language                  : 
+2013-11-26 21:50:29,139 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Incorporate Test Results? : No
+2013-11-26 21:50:31,475 [1] WARN  PicklesDoc.Pickles.DirectoryCrawler.DirectoryTreeCrawler The file, C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo\packages\Pickles.CommandLine.0.9.1.0\tools\log.txt, will be ignored because it could not be read in properly
+2013-11-26 21:50:31,621 [1] INFO  PicklesDoc.Pickles.DocumentationBuilders.HTML.HtmlDocumentationBuilder Writing HTML to C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:50:32,062 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Pickles completed successfully
+2013-11-26 21:54:55,655 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Pickles v.0.9.0.0
+
+2013-11-26 21:54:55,697 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Generating documentation based on the following parameters
+2013-11-26 21:54:55,697 [1] INFO  PicklesDoc.Pickles.CommandLine.Program ----------------------------------------------------------
+2013-11-26 21:54:55,697 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Feature Directory         : C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:54:55,697 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Output Directory          : C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:54:55,697 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Project Name              : 
+2013-11-26 21:54:55,697 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Project Version           : 
+2013-11-26 21:54:55,697 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Language                  : 
+2013-11-26 21:54:55,697 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Incorporate Test Results? : No
+2013-11-26 21:54:57,425 [1] WARN  PicklesDoc.Pickles.DirectoryCrawler.DirectoryTreeCrawler The file, C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo\packages\Pickles.CommandLine.0.9.1.0\tools\log.txt, will be ignored because it could not be read in properly
+2013-11-26 21:54:57,499 [1] INFO  PicklesDoc.Pickles.DocumentationBuilders.HTML.HtmlDocumentationBuilder Writing HTML to C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:54:57,729 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Pickles completed successfully
+2013-11-26 21:55:50,733 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Pickles v.0.9.0.0
+
+2013-11-26 21:55:50,775 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Generating documentation based on the following parameters
+2013-11-26 21:55:50,776 [1] INFO  PicklesDoc.Pickles.CommandLine.Program ----------------------------------------------------------
+2013-11-26 21:55:50,776 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Feature Directory         : C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:55:50,776 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Output Directory          : C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:55:50,776 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Project Name              : 
+2013-11-26 21:55:50,776 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Project Version           : 
+2013-11-26 21:55:50,776 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Language                  : 
+2013-11-26 21:55:50,776 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Incorporate Test Results? : No
+2013-11-26 21:55:52,516 [1] WARN  PicklesDoc.Pickles.DirectoryCrawler.DirectoryTreeCrawler The file, C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo\packages\Pickles.CommandLine.0.9.1.0\tools\log.txt, will be ignored because it could not be read in properly
+2013-11-26 21:55:52,586 [1] INFO  PicklesDoc.Pickles.DocumentationBuilders.HTML.HtmlDocumentationBuilder Writing HTML to C:\users\accionlt006\documents\visual studio 2012\Projects\MortageCalculatorDemo
+2013-11-26 21:55:52,724 [1] INFO  PicklesDoc.Pickles.CommandLine.Program Pickles completed successfully
